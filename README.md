@@ -1,4 +1,4 @@
-BANNER SHOP PROJECT
+Cooking Zone UI
 
 This project is developed using react js and vite framework. For css used tailwindcss.
 
